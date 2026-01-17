@@ -1,0 +1,12 @@
+Main branches in the gitHub i want to change
+import Java util.List;
+class ListEle {
+public static void main (String args[]){
+List<String> s1=new ArrayList();
+s1.add("Hello");
+s1.add("HelloWorld");
+for(String Element:s1){
+System.out.println(s1.getName()+"Merging the data"+s1.getValue());
+}
+}
+}
